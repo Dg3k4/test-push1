@@ -119,5 +119,68 @@
 }
 
 @media screen and (max-width: 500px) {
+    header {
+        font-size: 52px !important;
+        border: #cc0002 solid 2px;
+    }
 
+    header .logo-header i {
+        font-size: 65px !important;
+    }
+
+    .hello-item1 {
+        font-size: 65px !important;
+    }
+
+    .strategy-left .strategy-left-item2 {
+        font-size: 59px !important;
+    }
+
+    .strategy-right-item1 .review {
+        font-size: 29px !important;
+    }
+
+    .strategy-name1 {
+        font-size: 33px !important;
+    }
+
+    .strategy-name2 {
+        font-size: 20px !important;
+    }
+
+    .project-item1 .project-item1-text1 {
+        font-size: 39px !important;
+    }
+
+    .project-text1-1 {
+        font-size: 39px !important;
+    }
+
+    .evolution-up {
+        font-size: 65px !important;
+    }
+
+    .evolution-list-item .evolution-list-text1 {
+        font-size: 39px !important;
+    }
+
+    .amazing-content {
+        font-size: 91px !important;
+    }
+
+    .amazing a {
+        font-size: 24px !important;
+    }
+
+    .footer-email {
+        font-size: 34px !important;
+    }
+
+    .footer-links {
+        font-size: 46px !important;
+    }
+
+    .footer-logo {
+        font-size: 52px !important;
+    }
 }
